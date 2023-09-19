@@ -9,7 +9,7 @@ header{
 	padding: 10px;
 }
 main{
-    background-color: limegreen;
+    background-color: rgb(34, 195, 34);
     padding: 50px;
 }
 footer{
@@ -17,7 +17,14 @@ footer{
 	padding: 10px;
 }
 .textblock{
-    margin: 50px;
+    margin: 25px;
     background-color: #591ca4;
     padding: 25px;
+}
+h1, p{
+    color: white;
+}
+.textblocken{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
