@@ -1,4 +1,4 @@
-img{
+header img{
     display: flex;
     width: 200px;
     justify-content: flex-end;
@@ -27,4 +27,7 @@ h1, p{
 .textblocken{
     display: grid;
     grid-template-columns: 1fr 1fr;
+}
+.textblock img{
+    width: 600px;
 }
