@@ -31,3 +31,13 @@ h1, p{
 .textblock img{
     width: 600px;
 }
+.textblock-large{
+    display: grid;
+    grid-column-start: span 2;
+    margin: 25px;
+    padding: 25px;
+    background-color: #591ca4;
+}
+.textblock-large img{
+    width: 1300px;
+}
